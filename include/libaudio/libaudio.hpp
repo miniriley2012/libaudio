@@ -1,0 +1,8 @@
+//
+// Created by Riley Quinn on 8/17/20.
+//
+
+#ifndef LIBAUDIO_LIBAUDIO_LIBAUDIO_HPP
+#define LIBAUDIO_LIBAUDIO_LIBAUDIO_HPP
+
+#endif //LIBAUDIO_LIBAUDIO_LIBAUDIO_HPP
